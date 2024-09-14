@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "111207844273",
+    "project_id": "walletapp-7f727",
+    "storage_bucket": "walletapp-7f727.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111207844273:android:0f6938ac4d1f6714add590",
+        "android_client_info": {
+          "package_name": "com.example.stripe_payment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_AMc1HjG-JIjUxHwNJ0jRmabh4Iaq6Rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
